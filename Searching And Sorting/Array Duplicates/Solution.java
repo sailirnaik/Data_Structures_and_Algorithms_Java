@@ -21,6 +21,7 @@ https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/1
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Map;
 
 class Solution {
     public ArrayList<Integer> findDuplicates(int[] arr) {
